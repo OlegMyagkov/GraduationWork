@@ -1,0 +1,2 @@
+# GraduationWork
+small learning project
